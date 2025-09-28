@@ -151,11 +151,16 @@ ResearchFlow/
 
 ### ⚡ One-Command Setup
 ```bash
-# Clone and setup everything
-git clone https://github.com/your-username/researchflow.git
+# Clone the repository
+git clone https://github.com/paradoxxx09/Researchpaper.git
+cd Researchpaper
+
+# Extract the main project
+unzip researchflow.zip
 cd researchflow
+
+# Auto-setup (if setup.sh exists)
 chmod +x setup.sh && ./setup.sh
-```
 
 ### 🔧 Manual Setup
 
