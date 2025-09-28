@@ -1,7 +1,5 @@
 # 🔬 ResearchFlow: AI-Powered Academic Research Assistant
 
-> **Winner of Best Innovation Award** - *Revolutionizing academic research through intelligent automation*
-
 ResearchFlow is a cutting-edge, AI-driven platform that transforms the traditional academic research process. By leveraging multi-agent AI architecture, it automates paper discovery, analysis, citation management, and draft generation - reducing research time from weeks to hours while maintaining academic rigor.
 
 ## 🏆 Why ResearchFlow Stands Out
